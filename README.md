@@ -15,7 +15,7 @@ A modern news feed application built using **JavaFX**, **OkHttp**, and **Gson**.
 
 ## 📸 Demo
 
-![JavaFX News App Screenshot](screenshot.png) <!-- Add an actual screenshot of your app -->
+![JavaFX News App Screenshot](images/app.png) 
 
 ---
 
@@ -68,11 +68,7 @@ Run `Main.java` to launch the application.
 
 ## 📦 Project Structure
 
-![My Image](images/folder_structure.png)
-
-
-Copy
-Edit
+![My Folder](images/folder_structure.png)
 
 ---
 
@@ -86,6 +82,16 @@ Your key is already included in `NewsService.java`:
 private static final String API_URL =
   "https://gnews.io/api/v4/top-headlines?lang=en&token=1e417d82a32cef118105fb1a285d9404";
 ```
+
+## 📸 Demo
+
+
+![API_Error](images/api_limit.png)
+
+
+
+---
+
 ## 📌 To Do
 
 - [ ] Add topic filters (e.g., technology, sports)
