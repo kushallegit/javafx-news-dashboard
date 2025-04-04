@@ -45,7 +45,7 @@ A modern news feed application built using **JavaFX**, **OkHttp**, and **Gson**.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kushallegit/javafx-news-app.git
+git clone https://github.com/kushallegit/Assignment2-Java3.git
 cd javafx-news-app
 ```
 ## 📥 2. Import into Your IDE
