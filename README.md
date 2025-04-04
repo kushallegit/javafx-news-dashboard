@@ -68,14 +68,8 @@ Run `Main.java` to launch the application.
 
 ## 📦 Project Structure
 
-com.java3/ 
-├── Main.java # JavaFX entry point 
-├── NewsService.java # Fetches news data from GNews API 
-├── model/ │ 
-├── NewsArticle.java # Model for each news article 
-│ └── NewsResponse.java # Wrapper for API response 
-└── view/ 
-└── NewsView.java # Builds the JavaFX UI
+![My Image](images/folder_structure.png)
+
 
 Copy
 Edit
