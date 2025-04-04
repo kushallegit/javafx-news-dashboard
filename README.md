@@ -85,6 +85,7 @@ private static final String API_URL =
 
 ## 📸 Demo
 
+My API request limit is 100 requests per day, so if i make more than 100 requests in a day, it gives me this error :(
 
 ![API_Error](images/api_limit.png)
 
