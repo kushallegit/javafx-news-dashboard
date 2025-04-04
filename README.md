@@ -1,6 +1,11 @@
 # Assignment2-Java3
 
+---
+
 # API= 1e417d82a32cef118105fb1a285d9404
+Note: It's my free version API, do not use this one, please use your own API key, don't exploit this API key. :)
+
+---
 
 # 📰 JavaFX News App
 
