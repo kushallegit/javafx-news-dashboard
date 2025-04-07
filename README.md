@@ -30,13 +30,14 @@ A modern news feed application built using **JavaFX**, **OkHttp**, and **Gson**.
 
 ---
 
-## 🧰 Tech Stack
 
-- Java 17+
-- JavaFX
-- OkHttp
-- Gson
-- GNews API
+## 🛠 Technologies Used
+
+| Dependency | Description | Version |
+|------------|-------------|---------|
+| [JavaFX](https://openjfx.io/) | Used for building the graphical user interface (GUI) | 17 |
+| [OkHttp](https://square.github.io/okhttp/) | HTTP client for making API requests | 4.11.0 |
+| [Gson](https://github.com/google/gson) | JSON parser to handle API responses | 2.10.1 |
 
 ---
 
