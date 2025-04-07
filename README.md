@@ -15,7 +15,10 @@ A modern news feed application built using **JavaFX**, **OkHttp**, and **Gson**.
 
 ## 📸 Demo
 
-![JavaFX News App Screenshot](images/app.png) 
+![JavaFX News App Screenshot](images/app_windowed.png) 
+
+![JavaFX News App Screenshot](images/app_fullscreen.png) 
+
 
 ---
 
