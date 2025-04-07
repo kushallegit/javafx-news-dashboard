@@ -54,7 +54,8 @@ cd Assignment2-Java3
 ```
 ## 📥 2. Import into Your IDE
 
-Open the project in **IntelliJ IDEA**, **Eclipse**, or **NetBeans**.
+This is a standard Maven project. You can open it directly using File > Open in IntelliJ.
+
 
 ### 🛠️ 3. Set up JavaFX SDK
 
@@ -87,11 +88,13 @@ private static final String API_URL =
   "https://gnews.io/api/v4/top-headlines?lang=en&token=1e417d82a32cef118105fb1a285d9404";
 ```
 
-Here, you can add your own API url and API key, I have used an API key which give live news and which gives me 100 requests per and upto 10 articles returned per request, you can also get free API in the internet.
+Here, you can add your own API url and API key, I have used an API key which give live news and allows me 100 requests per and upto 10 articles returned per request, you can also get free API in the internet.
 
 ## 📸 API Request Limit
 
 My API request limit is 100 requests per day, so if i make more than 100 requests in a day, it gives me this error :(
+
+To avoid hitting the limit, consider caching data locally or upgrading your GNews plan.
 
 ![API_Error](images/api_limit.png)
 
