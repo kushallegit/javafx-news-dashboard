@@ -73,6 +73,21 @@ Run `Main.java` to launch the application.
 
 ## 📦 Project Structure
 
+
+News/
+│
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── java3/
+│       │           └── Main.java
+│       └── resources/
+│
+├── pom.xml
+└── README.md
+
+
 ![My Folder](images/folder_structure.png)
 
 ---
