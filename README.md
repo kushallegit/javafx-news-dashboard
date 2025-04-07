@@ -88,7 +88,7 @@ private static final String API_URL =
   "https://gnews.io/api/v4/top-headlines?lang=en&token=1e417d82a32cef118105fb1a285d9404";
 ```
 
-Here, you can add your own API url and API key, I have used an API key which give live news and allows me 100 requests per and upto 10 articles returned per request, you can also get free API in the internet.
+Here, you can add your own API url and API key, I have used an API key which give live news and allows me 100 requests per day and upto 10 articles returned per request, you can also get free API in the internet.
 
 ## 📸 API Request Limit
 
