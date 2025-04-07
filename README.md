@@ -80,14 +80,16 @@ Run `Main.java` to launch the application.
 
 This app uses the [GNews API](https://gnews.io/).
 
-Your key is already included in `NewsService.java`:
+My key is already included in `NewsService.java`:
 
 ```java
 private static final String API_URL =
   "https://gnews.io/api/v4/top-headlines?lang=en&token=1e417d82a32cef118105fb1a285d9404";
 ```
 
-## 📸 Demo
+Here, you can add your own API url and API key, I have used an API key which give live news and which gives me 100 requests per and upto 10 articles returned per request, you can also get free API in the internet.
+
+## 📸 API Request Limit
 
 My API request limit is 100 requests per day, so if i make more than 100 requests in a day, it gives me this error :(
 
