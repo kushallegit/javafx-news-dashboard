@@ -2,6 +2,11 @@
 
 ---
 
+It’s not a web-based app, but it still follows full-stack architecture:
+UI (JavaFX) ➝ Controller/Service (Java) ➝ API/JSON data ➝ Display to user
+
+---
+
 # API= 1e417d82a32cef118105fb1a285d9404 (expired API)
 Note: It's my free version API, do not use this one, please use your own API key, don't exploit this API key. :)
 
