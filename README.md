@@ -1,8 +1,8 @@
-# Assignment2-Java3
+# JavaFX News App using GNews API
 
 ---
 
-# API= 1e417d82a32cef118105fb1a285d9404
+# API= 1e417d82a32cef118105fb1a285d9404 (expired API)
 Note: It's my free version API, do not use this one, please use your own API key, don't exploit this API key. :)
 
 ---
